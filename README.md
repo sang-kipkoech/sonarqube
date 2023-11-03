@@ -1,3 +1,2 @@
 # SonarQube
-## SonarQube on server
 
